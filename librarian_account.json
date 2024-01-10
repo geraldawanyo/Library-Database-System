@@ -1,0 +1,10 @@
+{
+  "345": {
+    "id": 345,
+    "password": "abc",
+    "f_name": "Stish",
+    "u_type": "Librarian",
+    "l_issued_books": [],
+    "l_returned_books": []
+  }
+}
